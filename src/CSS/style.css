@@ -1,3 +1,37 @@
-.original-container {
-    max-width: 10px;
+body {
+    background-color: #A9B19C;
+    font-family: 'Roboto', sans-serif;
 }
+
+h1 {
+    color: #396A62;
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+    
+}
+.originals > h2 {
+    color: #497283;
+    font-size: 35px;
+}
+
+.original-container {
+    color: #363635;
+}
+
+.copies > h2 {
+    color: #497283;
+    font-size: 35px;
+}
+
+button {
+    background-color: #396A62;
+    color: #363635;
+    border: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
